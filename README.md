@@ -1,0 +1,1 @@
+# explorando-padr-es-de-projeto
